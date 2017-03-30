@@ -1,6 +1,6 @@
 # Meetups
 
-Planlegging av meetups foregår på issues. Et issue per meetup. Det ønskes innspill fra alle interesserte.
+Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per meetup. Det ønskes innspill fra alle interesserte.
 
 # Avholdte meetups
 
