@@ -15,4 +15,4 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 | [Workshop: Making sense of beacon signals with the help of machine learning](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/242117392/) | [Iver Jordal](https://github.com/iver56) | 2017-08-11 | [Wiki](https://github.com/iver56/indoor-nav/wiki) |
 | [Talk: Detecting abnormal behaviors in video](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/243804857/) | [Huamin Ren](https://dk.linkedin.com/in/huamin-ren-660b3020) | 2017-10-16 | Not published |
 | [Talk: Machine learning Anomaly Detection with AIS in Real Time](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/243950552/) | [Sindre Fjermestad](https://github.com/sindresf) | 2017-11-23 | TBA? |
-| Style transfer | Solveig og Iver | 2017-12-?? | TBA? |
+| Style transfer | Solveig og Iver | 2018-01-?? | TBA? |
