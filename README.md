@@ -17,4 +17,4 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 | [Talk: Machine learning Anomaly Detection with AIS in Real Time](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/243950552/) | [Sindre Fjermestad](https://github.com/sindresf) | 2017-11-23 | Not published |
 | LSTM workshop | Iver | 2018-01-?? | TBA? |
 | Style transfer | Solveig og Iver | 2018-02-26 | TBA? |
-| LIME | William | 2018-03-?? | TBA? |
+| LIME | William Naylor | 2018-03-?? | TBA? |
