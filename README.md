@@ -6,8 +6,8 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
-| Workshop: Getting started with PyTorch | [Thomas H. Thoresen](https://github.com/thomasht86) | 2018-06-?? | TBA |
-| Talk: Machine learning algorithms for churn- and time to event prediction | [Ask S. Krogstad](https://github.com/askskro) | 2018-05-24 | TBA |
+| Workshop: Getting started with PyTorch | [Thomas H. Thoresen](https://github.com/thomasht86) | 2018-08-?? | TBA |
+| [Talk: Machine learning algorithms for churn- and time to event prediction](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/250298421/) | [Ask S. Krogstad](https://github.com/askskro) | 2018-05-24 | TBA |
 | [Talk: Explaining the predictions of any machine learning classifier](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/248434343/) | [William Naylor](https://www.linkedin.com/in/wrnaylor/) | 2018-04-09 | TBA |
 | [Talk: Image style transfer and other creative AI techniques](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/247584393/) | [Solveig Masvie](https://no.linkedin.com/in/solveigmasvie) og [Iver Jordal](https://github.com/iver56) | 2018-02-27 | Solveig's talk is not published. Iver's talk is available: [PPTX, 364 MB](https://github.com/trondheim-machine-learning-meetup/meetups/releases/download/2018-02-27/Creative.AI.pptx) |
 | [Workshop: Lage LSTM-modell som lærer seg å forstå norske fornavn](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/246929884/) | [Iver Jordal](https://github.com/iver56) | 2018-02-01 | [Intro presentation](slides/2017-02-01%20-%20LSTM%20Workshop%20introduction.pptx?raw=true), [Online tutorial](https://github.com/iver56/lstm-name-classifier/wiki) |
