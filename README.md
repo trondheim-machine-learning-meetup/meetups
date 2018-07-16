@@ -6,7 +6,7 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
-| Workshop: Getting started with PyTorch | [Thomas H. Thoresen](https://github.com/thomasht86) | 2018-08-?? | TBA |
+| Workshop: Mutlivariate time series forecasting with Temporal Convolutional Networks | [Thomas H. Thoresen](https://github.com/thomasht86) | 2018-08-?? | TBA |
 | [Talk: WTTE-RNN - solving churn prediction by predicting time to event](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/250298421/) | [Ask S. Krogstad](https://github.com/askskro) | 2018-05-24 | [Based on this blog post](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/) and these implementations [1](https://github.com/ragulpr/wtte-rnn/), [2](https://github.com/ragulpr/wtte-rnn-examples), [3](https://github.com/daynebatten/keras-wtte-rnn) and [4](https://github.com/gm-spacagna/deep-ttf). |
 | [Talk: Explaining the predictions of any machine learning classifier](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/248434343/) | [William Naylor](https://www.linkedin.com/in/wrnaylor/) | 2018-04-09 | TBA |
 | [Talk: Image style transfer and other creative AI techniques](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/247584393/) | [Solveig Masvie](https://no.linkedin.com/in/solveigmasvie) og [Iver Jordal](https://github.com/iver56) | 2018-02-27 | Solveig's talk is not published. Iver's talk is available: [PPTX, 364 MB](https://github.com/trondheim-machine-learning-meetup/meetups/releases/download/2018-02-27/Creative.AI.pptx) |
