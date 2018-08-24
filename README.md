@@ -6,6 +6,8 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
+| Workshop: Introduction to Keras and Scikit-learn | Ask | 2018-10-?? | TBA |
+| Workshop: 3D image data | Øystein | 2018-09-19 | TBA |
 | [Talk: Temporal Convolutional Networks - Dethroning RNNs for sequence modelling](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/252982155/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2018-08-16 | [Presentation](https://www.slideshare.net/ThomasHjeldeThoresen/temporal-convolutional-networks-dethroning-rnns-for-sequence-modelling) |
 | [Talk: WTTE-RNN - solving churn prediction by predicting time to event](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/250298421/) | [Ask S. Krogstad](https://github.com/askskro) | 2018-05-24 | [Based on this blog post](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/) and these implementations [1](https://github.com/ragulpr/wtte-rnn/), [2](https://github.com/ragulpr/wtte-rnn-examples), [3](https://github.com/daynebatten/keras-wtte-rnn) and [4](https://github.com/gm-spacagna/deep-ttf). |
 | [Talk: Explaining the predictions of any machine learning classifier](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/248434343/) | [William Naylor](https://www.linkedin.com/in/wrnaylor/) | 2018-04-09 | TBA |
