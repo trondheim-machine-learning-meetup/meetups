@@ -6,7 +6,7 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
-| Workshop: Introduction to machine learning | Ask | 2018-10-?? | TBA |
+| Workshop: Introduction to machine learning | Ask | 2018-11-0? | TBA |
 | [Object detection in 3D images](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/254440722/) | [Øystein Skotheim](https://www.linkedin.com/in/oskotheim/) and [Iver Jordal](https://github.com/iver56) | 2018-10-04 | Iver's presentation on object detection basics: [PPTX, 36 MB](https://github.com/trondheim-machine-learning-meetup/meetups/releases/download/2018-10-04/Object.detection.basics.pptx), Øystein's presentations: not published |
 | [Talk: Temporal Convolutional Networks - Dethroning RNNs for sequence modelling](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/252982155/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2018-08-16 | [Presentation](https://www.slideshare.net/ThomasHjeldeThoresen/temporal-convolutional-networks-dethroning-rnns-for-sequence-modelling) |
 | [Talk: WTTE-RNN - solving churn prediction by predicting time to event](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/250298421/) | [Ask S. Krogstad](https://github.com/askskro) | 2018-05-24 | [Based on this blog post](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/) and these implementations [1](https://github.com/ragulpr/wtte-rnn/), [2](https://github.com/ragulpr/wtte-rnn-examples), [3](https://github.com/daynebatten/keras-wtte-rnn) and [4](https://github.com/gm-spacagna/deep-ttf). |
