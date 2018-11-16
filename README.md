@@ -6,7 +6,7 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
-| Semantic image segmentation | William R. Naylor | 2019-02-?? | TBA |
+| Medical image classification and segmentation | William R. Naylor | 2019-02-?? | TBA |
 | Kaggle: Online machine learning competitions | Thomas Thoresen | 2019-01-?? | TBA |
 | AI fuckups | Iver Jordal | 2018-12-?? | TBA |
 | [Workshop: Hands-on intro to deep learning](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/255551218/) | [Iver Jordal](https://github.com/iver56), [Ask S. Krogstad](https://github.com/askskro) and [Olav Markussen](https://github.com/olavbm) | 2018-11-15 | [https://github.com/AIAScience/deep-learning-intro](https://github.com/AIAScience/deep-learning-intro) |
