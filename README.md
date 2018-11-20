@@ -8,7 +8,7 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 | ------------- | ---------------------------------- | --------------| ---------------- |
 | Medical image classification and segmentation | William R. Naylor | 2019-02-?? | TBA |
 | Kaggle: Online machine learning competitions | Thomas Thoresen | 2019-01-16 | TBA |
-| AI fuckups | Iver Jordal | 2018-12-?? | TBA |
+| [AIFfuckups](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/256568084/) | Iver Jordal | 2018-12-17 | TBA |
 | [Workshop: Hands-on intro to deep learning](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/255551218/) | [Iver Jordal](https://github.com/iver56), [Ask S. Krogstad](https://github.com/askskro) and [Olav Markussen](https://github.com/olavbm) | 2018-11-15 | [https://github.com/AIAScience/deep-learning-intro](https://github.com/AIAScience/deep-learning-intro) |
 | [Object detection in 3D images](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/254440722/) | [Øystein Skotheim](https://www.linkedin.com/in/oskotheim/) and [Iver Jordal](https://github.com/iver56) | 2018-10-04 | Iver's presentation on object detection basics: [PPTX, 36 MB](https://github.com/trondheim-machine-learning-meetup/meetups/releases/download/2018-10-04/Object.detection.basics.pptx), Øystein's presentations: not published |
 | [Talk: Temporal Convolutional Networks - Dethroning RNNs for sequence modelling](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/252982155/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2018-08-16 | [Presentation](https://www.slideshare.net/ThomasHjeldeThoresen/temporal-convolutional-networks-dethroning-rnns-for-sequence-modelling) |
