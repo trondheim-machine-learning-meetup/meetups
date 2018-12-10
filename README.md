@@ -7,7 +7,7 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
 | Medical image classification and segmentation | William R. Naylor | 2019-02-?? | TBA |
-| Kaggle: Online machine learning competitions | Thomas Thoresen | 2019-01-16 | TBA |
+| [Workshop: Getting started with Kaggle](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/257108167/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2019-01-16 | TBA |
 | [Talk: AI Fuckups](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/256568084/) | [Iver Jordal](https://github.com/iver56) | 2018-12-17 | TBA |
 | [Workshop: Hands-on intro to deep learning](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/255551218/) | [Iver Jordal](https://github.com/iver56), [Ask S. Krogstad](https://github.com/askskro) and [Olav Markussen](https://github.com/olavbm) | 2018-11-15 | [https://github.com/AIAScience/deep-learning-intro](https://github.com/AIAScience/deep-learning-intro) |
 | [Object detection in 3D images](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/254440722/) | [Øystein Skotheim](https://www.linkedin.com/in/oskotheim/) and [Iver Jordal](https://github.com/iver56) | 2018-10-04 | Iver's presentation on object detection basics: [PPTX, 36 MB](https://github.com/trondheim-machine-learning-meetup/meetups/releases/download/2018-10-04/Object.detection.basics.pptx), Øystein's presentations: not published |
