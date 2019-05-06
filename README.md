@@ -6,7 +6,8 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
-| AI for smart cities | Dr. Ren Wu | 2019-05-21 | TBA |
+| [Introduction to MLflow](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/260536769/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2019-05-29 | TBA |
+| [AI for smart cities](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/261112238/) | Dr. Ren Wu | 2019-05-21 | TBA |
 | Åpning av AI village | Odd Jostein Svendsli | 2019-05-21 | TBA |
 | Reinforcement learning basics | [Olav Markussen](https://github.com/olavbm) | 2019-03-12 | TBA |
 | [Talk: Medical image classification and segmentation](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/258320641/) | [William R. Naylor](https://www.linkedin.com/in/wrnaylor/) | 2019-02-26 | [Slides+Code](https://drive.google.com/open?id=1gFVNe6FvrRpr2tmbGFAX_DW67Nhjk9Fr) |
