@@ -8,7 +8,7 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 | ------------- | ---------------------------------- | --------------| ---------------- |
 | [Introduction to MLflow](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/260536769/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2019-05-29 | TBA |
 | [AI for smart cities](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/261112238/) | Dr. Ren Wu | 2019-05-21 | TBA |
-| Åpning av AI village | Odd Jostein Svendsli | 2019-05-21 | TBA |
+| [Åpning av AI village](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/260536697/) | [Odd Jostein Svendsli](https://no.linkedin.com/in/ojsvendsli) | 2019-05-21 | TBA |
 | [Hands-on intro to reinforcement learning](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/259262171/) | [Olav Markussen](https://github.com/olavbm) | 2019-03-12 | [Code](https://github.com/olavbm/deep-q-learning) |
 | [Talk: Medical image classification and segmentation](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/258320641/) | [William R. Naylor](https://www.linkedin.com/in/wrnaylor/) | 2019-02-26 | [Slides+Code](https://drive.google.com/open?id=1gFVNe6FvrRpr2tmbGFAX_DW67Nhjk9Fr) |
 | [Talk: Getting started with Kaggle](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/257108167/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2019-01-16 | [Presentation](https://docs.google.com/presentation/d/11c1EUagtQ33VBFKUmte86KKRNBXsMHvscLD2CC8kIdI/edit?usp=sharing) |
