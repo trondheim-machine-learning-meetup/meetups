@@ -6,6 +6,9 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
+| Workshop: Hands-on intro to deep learning | TBA | 2019-09-03? | TBA |
+| [Python/ML Hack Night #1](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/262310411/) | [Iver Jordal](https://github.com/iver56) | 2019-06-28 | N/A |
+| [Hackathon med Statens vegvesen](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/262502986/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2019-06-24 - 2019-06-25 | [Github repository](https://github.com/Fundator/NVDB-Hackathon) |
 | [Introduction to MLflow](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/260536769/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2019-05-29 | [Code](https://github.com/thomasht86/meetup-mlflow) |
 | [AI for smart cities](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/261112238/) | [Dr. Ren Wu](https://www.linkedin.com/in/ren-wu-944162/) | 2019-05-21 | Not published |
 | [Åpning av AI village](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/260536697/) | [Odd Jostein Svendsli](https://no.linkedin.com/in/ojsvendsli) et al. | 2019-05-21 | Not published |
