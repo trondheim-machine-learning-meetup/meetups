@@ -8,6 +8,7 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 | ------------- | ---------------------------------- | --------------| ---------------- |
 | [Explainable AI and dimensionality reduction \| AI Village learning session #2](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/264424631/) | [Harald Martens](https://www.ntnu.no/ansatte/harald.martens) | 2019-09-26 | TBA |
 | [Machine Learning Algorithms \| AI Village learning session #1](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/264129904/) | [Olav Markussen](https://github.com/olavbm) and [Iver Jordal](https://github.com/iver56) | 2019-08-29 | TBA |
+| [Python/ML Hack Night #2](https://www.meetup.com/Trondheim-Python-Meetup/events/262750594/) | | 2019-08-15 | [MFlux.ai - Quickstart on hosted MLflow tracking UI](https://www.mflux.ai/quickstart/) |
 | [Python/ML Hack Night #1](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/262310411/) | [Iver Jordal](https://github.com/iver56) | 2019-06-28 | N/A |
 | [Hackathon med Statens vegvesen](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/262502986/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2019-06-24 - 2019-06-25 | [Github repository](https://github.com/Fundator/NVDB-Hackathon) |
 | [Introduction to MLflow](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/260536769/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2019-05-29 | [Code](https://github.com/thomasht86/meetup-mlflow) |
