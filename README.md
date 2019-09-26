@@ -6,6 +6,7 @@ Planlegging av meetups foregår åpent på [issues](../../issues). Et issue per 
 
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
+| Explainable AI and dimensionality reduction \| AI Village learning session #2 | [Harald Martens](https://www.ntnu.no/ansatte/harald.martens) | 2019-09-26 | TBA |
 | Machine Learning Algorithms \| AI Village learning session #1 | [Olav Markussen](https://github.com/olavbm) and [Iver Jordal](https://github.com/iver56) | 2019-08-29 | TBA |
 | [Python/ML Hack Night #1](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/262310411/) | [Iver Jordal](https://github.com/iver56) | 2019-06-28 | N/A |
 | [Hackathon med Statens vegvesen](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/262502986/) | [Thomas H. Thoresen](https://github.com/thomasht86) | 2019-06-24 - 2019-06-25 | [Github repository](https://github.com/Fundator/NVDB-Hackathon) |
