@@ -5,7 +5,7 @@ If you have suggestions for future meetups, you can add an [issue](../../issues)
 | Tittel        | Foredragsholder/kursansvarlig      | Dato          | Slides/materiell |
 | ------------- | ---------------------------------- | --------------| ---------------- |
 | Learning to rank \| AI Village learning session #3 | Muhammad Ali Norozi | 2019-10-31 | TBA |
-| [Explainable AI and dimensionality reduction \| AI Village learning session #2](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/264424631/) | [Harald Martens](https://www.ntnu.no/ansatte/harald.martens) | 2019-09-26 | TBA |
+| [Explainable AI and dimensionality reduction \| AI Village learning session #2](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/264424631/) | [Harald Martens](https://www.ntnu.no/ansatte/harald.martens) | 2019-09-26 | [PDF, 12 MB](slides/2019-09-26%20-%20Martens%20PCA.pdf?raw=true) |
 | [Machine Learning Algorithms \| AI Village learning session #1](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/264129904/) | [Olav Markussen](https://github.com/olavbm) and [Iver Jordal](https://github.com/iver56) | 2019-08-29 | TBA |
 | [Python/ML Hack Night #2](https://www.meetup.com/Trondheim-Python-Meetup/events/262750594/) | | 2019-08-15 | [MFlux.ai - Quickstart on hosted MLflow tracking UI](https://www.mflux.ai/quickstart/) |
 | [Python/ML Hack Night #1](https://www.meetup.com/Trondheim-Machine-Learning-Meetup/events/262310411/) | [Iver Jordal](https://github.com/iver56) | 2019-06-28 | N/A |
